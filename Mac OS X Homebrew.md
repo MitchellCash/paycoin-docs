@@ -92,3 +92,14 @@ qmake USE_UPNP=-
 make clean
 make
 ```
+
+# 2.4 To run the app:
+
+`./Paycoin.app/Contents/MacOS/Paycoin`
+
+References
+
+https://bugreports.qt.io/browse/QTBUG-22829
+http://stackoverflow.com/a/25194845
+https://bitcointalk.org/index.php?topic=149479.msg10115012#msg10115012
+https://github.com/bitcoin/bitcoin/blob/14f870cee50f791bfa9c08bf1d60f8a3b9aeab23/doc/readme-qt.md
